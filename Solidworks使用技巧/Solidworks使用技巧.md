@@ -37,3 +37,7 @@
 
 * 打开*.step文件一直提示没有匹配的模板？可以前往**选项**->**默认模板**分别选择gb_part和gb_assembly文件。
 
+#### 4. 学习资料
+
+[Solidworks2020](https://pan.baidu.com/s/4glGi5gR)
+
