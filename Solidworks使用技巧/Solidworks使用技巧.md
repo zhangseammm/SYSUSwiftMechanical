@@ -39,5 +39,5 @@
 
 #### 4. 学习资料
 
-[Solidworks2020](https://pan.baidu.com/s/4glGi5gR)
+[Solidworks2020](https://pan.baidu.com/s/1hXvyA8fET9IR2-a7RffkGw)提取码：uijh
 
